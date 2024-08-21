@@ -1,0 +1,14 @@
+{
+  "name": "test-parcel",
+  "version": "1.0.0",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "parcel": "^1.12.3"
+  }
+}
